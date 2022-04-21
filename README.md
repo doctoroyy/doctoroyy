@@ -1,6 +1,5 @@
-<p>
-	<a href="https://github.com/doctoroyy"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=doctoroyy&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats" align="left"></a>
-	<a href="https://github.com/doctoroyy"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctoroyy&layout=compact&hide_title=true" alt="Top Langs" align="right"></a>
+![doctoroyy's github stats](https://github-readme-stats.vercel.app/api?username=doctoroyy&show_icons=true) 
+
 </p>
 
 <!--
