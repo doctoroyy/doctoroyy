@@ -2,8 +2,6 @@
 	<a href="https://github.com/doctoroyy"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=doctoroyy&count_private=true&show_icons=true&hide_title=true" alt="GitHub Stats" align="left"></a>
 	<a href="https://github.com/doctoroyy"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doctoroyy&layout=compact&hide_title=true" alt="Top Langs" align="right"></a>
 </p>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=doctoroyy&bg_color=ffffff&color=000000&line=30a141&point=03d3d&area=false&hide_border=true" align="center" />
 
 <!--
 **doctoroyy/doctoroyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
